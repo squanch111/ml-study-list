@@ -1,2 +1,8 @@
 # ml-study-list
-easy to learn when update
+model for statistics
+Regression
+Classification
+Clustering
+Dim.Reduction
+Tree/Boosting
+
